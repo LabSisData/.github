@@ -1,138 +1,274 @@
 <div align="center">
 
-# Laboratório de Sistemas e Dados
+# 🔬 Laboratório de Sistemas e Dados
 
-### LSD · IFCE Campus Maranguape
+### Instituto Federal do Ceará — Campus Maranguape
 
-**Pesquisa, desenvolvimento e inovação tecnológica.**
+**Pesquisa • Desenvolvimento • Tecnologia • Inovação**
 
-Aprender. Criar. Evoluir.
+<br>
+
+Desenvolvemos soluções utilizando software, inteligência artificial,  
+visão computacional, sistemas embarcados e análise de dados.
 
 </div>
 
 ---
 
-## Sobre o LSD
+## 🧪 Sobre o LSD
 
-O **Laboratório de Sistemas e Dados (LSD)** é um espaço de pesquisa, desenvolvimento, aprendizagem e inovação tecnológica do **Instituto Federal de Educação, Ciência e Tecnologia do Ceará — IFCE, Campus Maranguape**.
+O **Laboratório de Sistemas e Dados (LSD)** é um espaço de pesquisa, desenvolvimento e inovação tecnológica do **IFCE Campus Maranguape**.
 
-O laboratório reúne estudantes, professores e pesquisadores no desenvolvimento de projetos envolvendo **programação, inteligência artificial, visão computacional, sistemas embarcados, desenvolvimento web, dados, eletrônica e automação**.
+O laboratório reúne estudantes e professores no desenvolvimento de projetos que transformam conhecimentos acadêmicos em **soluções reais**, incentivando experimentação, pesquisa, colaboração e desenvolvimento tecnológico.
 
-Nosso objetivo é transformar conhecimento acadêmico em soluções práticas, incentivando experimentação, colaboração, pesquisa e desenvolvimento de tecnologia.
-
----
-
-## Áreas de atuação
-
-O laboratório desenvolve atividades e projetos relacionados a:
-
-- Inteligência Artificial
-- Visão Computacional
-- Desenvolvimento Web
-- Sistemas Embarcados
-- Internet das Coisas
-- Ciência e análise de dados
-- Automação
-- Robótica
-- Desenvolvimento de software
-- Acessibilidade por meio da tecnologia
-- Jogos e experiências interativas
-- Pesquisa e iniciação científica
+Nossa atuação envolve desde aplicações web até inteligência artificial, visão computacional, eletrônica e sistemas embarcados.
 
 ---
 
-## Projetos
+## 🚀 O que desenvolvemos
 
-### LSD-PAGE
+<table>
+<tr>
 
-Plataforma desenvolvida para centralizar informações e atividades do Laboratório de Sistemas e Dados.
+<td width="33%" align="center">
 
-O sistema integra recursos como gerenciamento de membros e projetos, perfis, inventário de equipamentos, solicitações, empréstimos, histórico de atividades e outras ferramentas voltadas à organização interna do laboratório.
+### 🧠 Inteligência Artificial
 
-**Tecnologias:** Python, Flask, JavaScript, HTML, CSS e banco de dados.
+Modelos inteligentes, reconhecimento de padrões, detecção de objetos e aplicações utilizando aprendizado de máquina.
 
----
+</td>
 
-### Lupa Digital
+<td width="33%" align="center">
 
-Projeto de tecnologia assistiva desenvolvido para auxiliar pessoas com baixa visão.
+### 👁️ Visão Computacional
 
-Utiliza uma **Orange Pi 3 LTS**, câmera e interface desenvolvida em Python para permitir ampliação e navegação da imagem através de controles físicos.
+Processamento de imagens, reconhecimento facial, rastreamento e interação através de câmeras.
 
-**Tecnologias:** Python, OpenCV, PySide6, Orange Pi e GPIO.
+</td>
 
----
+<td width="33%" align="center">
 
-### Controle por Gestos
+### 🌐 Desenvolvimento Web
 
-Sistema de interação com jogos através de movimentos das mãos capturados por uma câmera.
+Plataformas, sistemas internos, APIs e ferramentas para gerenciamento de projetos e informações.
 
-O projeto utiliza visão computacional para identificar gestos e convertê-los em comandos de teclado, permitindo controlar aplicações e jogos sem a utilização de um controle convencional.
+</td>
 
-Uma das demonstrações utiliza o **Mario Kart 64**, permitindo acelerar, realizar drift e executar outros comandos através das mãos.
+</tr>
 
-**Tecnologias:** Python, OpenCV e MediaPipe.
+<tr>
 
----
+<td width="33%" align="center">
 
-### Fechadura Eletrônica com Reconhecimento Facial
+### ⚙️ Sistemas Embarcados
 
-Sistema de controle de acesso utilizando visão computacional e sistemas embarcados.
+Projetos utilizando Orange Pi, Arduino, sensores, GPIO e integração entre hardware e software.
 
-Uma Orange Pi processa imagens de uma câmera para identificar usuários autorizados e controlar uma fechadura solenoide.
+</td>
 
-**Tecnologias:** Python, YOLO, OpenCV, Orange Pi e eletrônica.
+<td width="33%" align="center">
 
----
+### 📊 Sistemas e Dados
 
-### LSD-FIGHT
+Organização, armazenamento, processamento e análise de informações.
 
-Jogo de luta 2D desenvolvido para apresentação no **Universo IFCE**.
+</td>
 
-O projeto explora desenvolvimento de jogos, programação, animações, colisões e criação de experiências interativas.
+<td width="33%" align="center">
 
-**Tecnologias:** Godot Engine e GDScript.
+### 🔬 Pesquisa
 
----
+Experimentação, iniciação científica, desenvolvimento de protótipos e documentação científica.
 
-### Pesquisa e Iniciação Científica
+</td>
 
-O laboratório também participa de atividades de pesquisa e **Iniciação Científica**, incluindo projetos relacionados a inteligência artificial, visão computacional, análise de dados e aplicações de aprendizado de máquina.
-
-Os trabalhos envolvem pesquisa bibliográfica, experimentação, desenvolvimento de protótipos, documentação e análise de resultados.
-
----
-
-## Tecnologias
-
-As principais tecnologias utilizadas nos projetos do laboratório incluem:
-
-`Python` · `JavaScript` · `HTML` · `CSS` · `Flask` · `OpenCV` · `YOLO` · `MediaPipe` · `Java` · `Godot` · `GDScript` · `Arduino` · `Orange Pi` · `SQLite` · `MySQL` · `Git` · `GitHub` · `Linux` · `Docker`
+</tr>
+</table>
 
 ---
 
-## Nossa abordagem
+# 💡 Projetos
 
-Os projetos desenvolvidos no LSD buscam unir:
+## 🌐 LSD-PAGE
 
-**Pesquisa + Aprendizado + Desenvolvimento + Experimentação**
+Plataforma desenvolvida para centralizar informações e atividades do **Laboratório de Sistemas e Dados**.
 
-Mais do que produzir protótipos, buscamos documentar o processo de desenvolvimento, trabalhar de forma colaborativa e transformar ideias em soluções que possam ser utilizadas e evoluídas por outros estudantes.
+O sistema reúne ferramentas para gerenciamento de membros, projetos, equipamentos e atividades do laboratório.
+
+**Principais recursos**
+
+- 👤 Perfis de membros
+- 📁 Gerenciamento de projetos
+- 📦 Inventário de equipamentos
+- 🔄 Controle de empréstimos e devoluções
+- 📝 Registro de atividades
+- 🔐 Autenticação e controle de acesso
+
+**Tecnologias**
+
+`Python` `Flask` `JavaScript` `HTML` `CSS` `SQLite`
 
 ---
 
-## IFCE Campus Maranguape
+## 🔎 Lupa Digital
 
-O **Laboratório de Sistemas e Dados** faz parte das iniciativas de ensino, pesquisa e desenvolvimento tecnológico do **IFCE Campus Maranguape**.
+Projeto de **tecnologia assistiva** desenvolvido para auxiliar pessoas com baixa visão.
 
-> Tecnologia como ferramenta para aprender, pesquisar e transformar ideias em soluções.
+O sistema utiliza câmera e processamento de imagem para permitir ampliação digital e movimentação da imagem através de controles físicos.
+
+**Hardware**
+
+`Orange Pi 3 LTS` `Câmera USB` `Joystick Shield` `LCD`
+
+**Tecnologias**
+
+`Python` `OpenCV` `PySide6` `GPIO`
+
+---
+
+## 🔐 Fechadura Inteligente
+
+Sistema de controle de acesso utilizando **reconhecimento facial e visão computacional**.
+
+Uma Orange Pi processa imagens da câmera e identifica usuários autorizados para controlar eletronicamente uma fechadura solenoide.
+
+**Tecnologias**
+
+`Python` `YOLO` `OpenCV` `Orange Pi` `Eletrônica`
+
+---
+
+## 🖐️ Controle por Gestos
+
+Sistema capaz de transformar **movimentos das mãos em comandos digitais**.
+
+Utilizando uma webcam, o sistema identifica gestos em tempo real e converte os movimentos em comandos de teclado.
+
+Uma das aplicações desenvolvidas permite controlar o **Mario Kart 64 utilizando apenas gestos**.
+
+**Tecnologias**
+
+`Python` `MediaPipe` `OpenCV`
+
+---
+
+## 🎮 LSD-FIGHT
+
+Jogo de luta 2D desenvolvido dentro do universo de projetos do laboratório.
+
+O projeto explora conceitos de:
+
+- programação de jogos;
+- animações;
+- colisões;
+- movimentação;
+- física;
+- interfaces;
+- game design.
+
+**Tecnologias**
+
+`Godot Engine` `GDScript`
+
+---
+
+## 🔬 Pesquisa e Iniciação Científica
+
+Além do desenvolvimento de software e protótipos, o LSD participa de atividades de **pesquisa e iniciação científica**.
+
+Os projetos envolvem:
+
+`Pesquisa Bibliográfica`
+
+`Experimentação`
+
+`Inteligência Artificial`
+
+`Visão Computacional`
+
+`Análise de Dados`
+
+`Desenvolvimento de Protótipos`
+
+`Documentação Científica`
+
+---
+
+# 🛠️ Tecnologias
+
+<div align="center">
+
+### Linguagens
+
+`Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `GDScript`
+
+### Inteligência Artificial & Visão
+
+`OpenCV` · `YOLO` · `MediaPipe`
+
+### Backend & Dados
+
+`Flask` · `SQLite` · `MySQL`
+
+### Hardware
+
+`Orange Pi` · `Arduino` · `GPIO` · `Sensores`
+
+### Ferramentas
+
+`Git` · `GitHub` · `Linux` · `Docker` · `Godot`
+
+</div>
+
+---
+
+# 🧭 Como trabalhamos
+
+<div align="center">
+
+### 💭 Ideia
+↓  
+### 🔎 Pesquisa
+↓  
+### 🧪 Experimentação
+↓  
+### 💻 Desenvolvimento
+↓  
+### 🔧 Protótipo
+↓  
+### 📊 Testes
+↓  
+### 📚 Documentação
+
+</div>
+
+Nosso objetivo não é apenas desenvolver projetos, mas entender **como e por que cada solução funciona**, documentando o processo e permitindo que outros estudantes possam continuar e evoluir os trabalhos desenvolvidos.
+
+---
+
+# 🎯 Nossa missão
+
+> Utilizar tecnologia, pesquisa e desenvolvimento como ferramentas para transformar conhecimento em soluções.
+
+Buscamos criar um ambiente onde estudantes possam experimentar novas tecnologias, desenvolver projetos, trabalhar em equipe e adquirir experiência prática em diferentes áreas da computação.
 
 ---
 
 <div align="center">
 
-### Laboratório de Sistemas e Dados · LSD
+## 🔬 LSD
+
+### Laboratório de Sistemas e Dados
 
 **IFCE — Campus Maranguape**
+
+<br>
+
+`Pesquisa` • `Tecnologia` • `Desenvolvimento` • `Inovação`
+
+<br>
+
+**Transformando ideias em projetos.  
+Transformando projetos em conhecimento.**
 
 </div>
